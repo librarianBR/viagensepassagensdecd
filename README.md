@@ -1,6 +1,6 @@
 # viagensepassagensdecd
 
-## Vigens e passagens de Cargos de Direção no portal da Trânsparência.
+## Vigens e passagens de Cargos de Direção no portal da Trânsparência do Governo Federal Brasileiro.
 
 O seguinte notebook tem como objetivo identificar as viagens realizadas em um intervalo de tempo em anos dos ocupantes de cargos de direção (CD) de um determinado orgão que estão em exercicio, identificando a FUNCAO, ATIVIDADE, UORG_EXERCICIO, ORG_EXERCICIO, utilizando dados aberto do portal de transparência do governo brasileiro: 
 https://portaldatransparencia.gov.br/.
