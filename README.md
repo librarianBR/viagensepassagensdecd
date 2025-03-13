@@ -24,7 +24,7 @@ No momento da produção deste notebook, dados do SIAPE (fonte das informações
 Os arquivos são realmente grandes e o notebook trabalha com eles aos poucos tentando não afetar muito o espaço da maquina que a executa.
 
 ## Sobre o notebook  
-O notebook (arquivo viagensFuncao.ipynb ) pode ser utilizado em computador com python e as bibliotecas citadas. Caso não possa executar localmente, utilize o google colab (https://colab.research.google.com/) com uma conta google.
+O notebook (arquivo viagensFuncao.ipynb https://github.com/librarianBR/viagensepassagensdecd/blob/main/viagensFuncao.ipynb ) pode ser utilizado em computador com python e as bibliotecas citadas. Caso não possa executar localmente, utilize o google colab (https://colab.research.google.com/) com uma conta google.
 
 
 ## Identifique o ORG_EXERCICIO primeiro  
@@ -48,7 +48,7 @@ Fique atento à codificação. Os dados abertos estão com a codificação iso-8
 
 ## Travels and Tickets of Leadership Positions on the Transparency Portal  
 
-This notebook (viagensFuncao.ipynb file) identifies travels conducted within a specified timeframe by occupants of leadership positions (CD) *in office* at a selected government agency. It extracts **FUNCAO**, **ATIVIDADE**, **UORG_EXERCICIO**, and **ORG_EXERCICIO** from the Brazilian government's Transparency Portal:  
+This notebook (viagensFuncao.ipynb file https://github.com/librarianBR/viagensepassagensdecd/blob/main/viagensFuncao.ipynb) identifies travels conducted within a specified timeframe by occupants of leadership positions (CD) *in office* at a selected government agency. It extracts **FUNCAO**, **ATIVIDADE**, **UORG_EXERCICIO**, and **ORG_EXERCICIO** from the Brazilian government's Transparency Portal:  
 https://portaldatransparencia.gov.br/.  
 
 ### Filters  
