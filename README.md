@@ -26,6 +26,8 @@ Os arquivos são realmente grandes e o notebook trabalha com eles aos poucos ten
 ## Sobre o notebook  
 O notebook (arquivo viagensFuncao.ipynb https://github.com/librarianBR/viagensepassagensdecd/blob/main/viagensFuncao.ipynb ) pode ser utilizado em computador com python e as bibliotecas citadas. Caso não possa executar localmente, utilize o google colab (https://colab.research.google.com/) com uma conta google.
 
+![google_colab01](https://github.com/user-attachments/assets/75018737-9002-4f8b-91dd-e4bc7b333957)
+
 
 ## Identifique o ORG_EXERCICIO primeiro  
 Para isso, acesse https://portaldatransparencia.gov.br/despesas/orgao?ordenarPor=orgaoSuperior&direcao=asc e pesquise pelo nome do Orgão.  
